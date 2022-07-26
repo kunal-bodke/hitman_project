@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>this is test example</h1>
-<h1>to check for token</h1>
+<h1>something new</h1>
 git hooks example
 git hooks example
 git hooks example
